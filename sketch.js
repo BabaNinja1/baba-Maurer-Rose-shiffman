@@ -4,7 +4,7 @@ let dSlider;
 let nSlider;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1920, 1080);
   angleMode(DEGREES)
   dSlider = createSlider(1,180,1);
   nSlider = createSlider(1,180,1);
